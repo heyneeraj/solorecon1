@@ -1,0 +1,11 @@
+requests
+dnspython
+aiohttp
+beautifulsoup4
+lxml
+rich
+click
+tqdm
+python-whois
+dnspython
+urllib3
